@@ -24,4 +24,4 @@ Disclaimer: No audio is added to the game.. yet.
 
 Disclaimer 2: No health bar.. yet.
 
-Btw, the game is in the file called index.apple-touch-icon.zip
+Here is my itch.io page: https://lara-2012.itch.io/hollowlight
